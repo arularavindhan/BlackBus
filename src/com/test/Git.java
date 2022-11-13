@@ -19,4 +19,8 @@ System.out.println("123");
 			private void x() {
 				System.out.println("132");
 					}
+			private void abcd() {
+				System.out.println("132abcd");
+					}
+			
 }
