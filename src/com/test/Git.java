@@ -19,7 +19,15 @@ System.out.println("123");
 			private void x() {
 				System.out.println("132");
 					}
+ 
+			
+
+
+			private void abcd() {
+				System.out.println("132abcd");
+					}
 			private void employee() {
-System.out.println("9876543210");
-			}
+				System.out.println("9876543210");
+							}
+ 
 }
