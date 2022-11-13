@@ -10,4 +10,13 @@ System.out.println("123");
 	private void c() {
 		System.out.println("132");
 			}
+	private void z() {
+		System.out.println("1230");
+			}
+			private void y() {
+				System.out.println("120");
+					}
+			private void x() {
+				System.out.println("132");
+					}
 }
