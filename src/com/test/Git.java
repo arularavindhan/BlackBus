@@ -19,4 +19,7 @@ System.out.println("123");
 			private void x() {
 				System.out.println("132");
 					}
+			private void employee() {
+System.out.println("9876543210");
+			}
 }
